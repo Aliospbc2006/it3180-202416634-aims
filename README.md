@@ -4,3 +4,5 @@
 
 - Sinh viên: MSSV 202416634
 - Chạy chương trình: `python main.py`
+
+- Yêu cầu: Python 3.10 trở lên
