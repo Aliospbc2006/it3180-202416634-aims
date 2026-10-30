@@ -5,6 +5,7 @@
 ## [Unreleased]
 ### Added
 - `Cart.sort_by_title()` và `Cart.sort_by_cost()` sắp xếp giỏ hàng.
+- `search_by_category()` tìm đĩa theo thể loại.
 
 ## [1.0.0] - 2026-10-30
 ### Added
