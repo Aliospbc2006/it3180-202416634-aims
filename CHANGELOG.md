@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-10-30
+### Fixed
+- `search_by_title` không phân biệt hoa thường (#18).
+
 ## [1.0.0] - 2026-10-30
 ### Added
 - `Cart.print_cart()` in chi tiết giỏ hàng; giỏ trống in "The cart is empty".
